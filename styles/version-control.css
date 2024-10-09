@@ -25,6 +25,10 @@ body {
      text-align: center;
 }
 
+.header__sub-title {
+    color: aqua;
+}
+
 .git-commands {
     color: #fff;
     font-size: 2rem;
